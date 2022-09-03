@@ -1,2 +1,2 @@
 # Akbank Web3 Javascript Case
- Function of a number is even or odd.
+Function that returns whether a number is odd or even.
